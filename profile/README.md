@@ -36,13 +36,13 @@ Si detectaste un **error de plataforma**, necesitas que se implemente un **nuevo
 
 ### 📑 Plantillas disponibles
 
-- 🐞 [Reporte de error – bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md)  
+- 🐞 [Reporte de error – bug_report.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/ISSUE_TEMPLATE/bug_report.md)  
   Para errores en el funcionamiento de la plataforma
 
-- ➕ [Solicitud de nueva funcionalidad – feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md)  
+- ➕ [Solicitud de nueva funcionalidad – feature_request.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/ISSUE_TEMPLATE/feature_request.md)  
   Para nuevos trámites o integraciones que no existen actualmente
 
-- ♻️ [Mejora a funcionalidades existentes – enhancement_request.md](.github/ISSUE_TEMPLATE/enhancement_request.md)  
+- ♻️ [Mejora a funcionalidades existentes – enhancement_request.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/ISSUE_TEMPLATE/enhancement_request.md)  
   Para optimizar procesos, formularios o interfaces ya implementados
 
 > Cada solicitud será evaluada por el equipo TI según prioridad institucional.
