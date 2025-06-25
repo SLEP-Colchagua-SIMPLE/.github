@@ -1,5 +1,5 @@
 ---
-name: ➕ Solicitud de Nueva Funcionalidad
+name: ➕ Solicitud de Nuevo Proceso o Funcionalidad
 about: Proponer una nueva funcionalidad o proceso para la plataforma SIMPLE
 title: "[FEATURE] "
 labels: feature
