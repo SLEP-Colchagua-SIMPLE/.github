@@ -16,12 +16,12 @@ Permite a funcionari@s, establecimientos educacionales y ciudadanía en general,
 
 ### Funcionalidades principales
 
-- 🗂️ Ingreso de solicitudes administrativas y técnicas  
-- 📥 Derivación automática a áreas responsables  
-- ⏱️ Seguimiento en línea del estado de las solicitudes  
-- 📨 Notificaciones por correo electrónico  
-- 📎 Carga de documentos adjuntos  
-- 📊 Reportes de gestión para análisis interno  
+- 🗂️ Ingreso de solicitudes administrativas y técnicas
+- 📥 Derivación automática a áreas responsables
+- ⏱️ Seguimiento en línea del estado de las solicitudes
+- 📨 Notificaciones por correo electrónico
+- 📎 Carga de documentos adjuntos
+- 📊 Reportes de gestión para análisis interno
 
 > ⚠️ El código fuente y la infraestructura están alojados en entornos internos. Este repositorio es **informativo y abierto a sugerencias**.
 
@@ -29,20 +29,20 @@ Permite a funcionari@s, establecimientos educacionales y ciudadanía en general,
 
 ## 🚧 Issues: errores y solicitudes de nuevas funcionalidades
 
-Si detectaste un **error de plataforma**, necesitas que se implemente un **nuevo proceso**, o deseas proponer mejoras a un trámite existente, puedes abrir un *issue* usando las plantillas disponibles.
+Si detectaste un **error de plataforma**, necesitas que se implemente un **nuevo proceso**, o deseas proponer mejoras a un trámite existente, puedes abrir un _issue_ usando las plantillas disponibles.
 
 🔗 Abre un reporte en:  
 [Repositorio público – Issues](https://github.com/SLEP-Colchagua-SIMPLE/portal/issues)
 
 ### 📑 Plantillas disponibles
 
-- 🐞 [Reporte de error – bug_report.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/ISSUE_TEMPLATE/bug_report.md)  
+- 🐞 [Reporte de error – bug_report.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)  
   Para errores en el funcionamiento de la plataforma
 
-- ➕ [Solicitud de nueva funcionalidad – feature_request.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/ISSUE_TEMPLATE/feature_request.md)  
+- ➕ [Solicitud de nueva funcionalidad – feature_request.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)  
   Para nuevos trámites o integraciones que no existen actualmente
 
-- ♻️ [Mejora a funcionalidades existentes – enhancement_request.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/ISSUE_TEMPLATE/enhancement_request.md)  
+- ♻️ [Mejora a funcionalidades existentes – enhancement_request.md](https://github.com/SLEP-Colchagua-SIMPLE/.github/blob/main/.github/ISSUE_TEMPLATE/enhancement_request.md)  
   Para optimizar procesos, formularios o interfaces ya implementados
 
 > Cada solicitud será evaluada por el equipo TI según prioridad institucional.
@@ -51,11 +51,11 @@ Si detectaste un **error de plataforma**, necesitas que se implemente un **nuevo
 
 <!-- ## 📂 Documentación importante
 
-- 📌 [Manual de usuario para funcionarios](https://github.com/SLEP-Colchagua-SIMPLE/docs/blob/main/MANUAL_FUNCIONARIOS.md)  
-- 🛠️ [Guía técnica de administración](https://github.com/SLEP-Colchagua-SIMPLE/docs/blob/main/GUIA_TECNICA.md)  
+- 📌 [Manual de usuario para funcionarios](https://github.com/SLEP-Colchagua-SIMPLE/docs/blob/main/MANUAL_FUNCIONARIOS.md)
+- 🛠️ [Guía técnica de administración](https://github.com/SLEP-Colchagua-SIMPLE/docs/blob/main/GUIA_TECNICA.md)
 - 🛡️ [Política de seguridad y privacidad](https://github.com/SLEP-Colchagua-SIMPLE/.github/blob/main/docs/POLITICA_SEGURIDAD.md)
 
-> Esta documentación aplica a todos los servicios relacionados con la plataforma SIMPLE. 
+> Esta documentación aplica a todos los servicios relacionados con la plataforma SIMPLE.
 
 ---
 -->
@@ -86,4 +86,4 @@ Si detectaste un **error de plataforma**, necesitas que se implemente un **nuevo
 ---
 
 > **📣 Tecnología al servicio público.**  
-Desarrollado y mantenido por el equipo TI de **SLEP Colchagua** con compromiso y transparencia. 💙
+> Desarrollado y mantenido por el equipo TI de **SLEP Colchagua** con compromiso y transparencia. 💙
